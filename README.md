@@ -1,12 +1,12 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Kahoan Oliveira</h1>
 
-- 🔥 Junior Web Developer focused on front-end.
+- 🔥 I'm Junior Web Developer.
 
 - 🧑‍🎓 Student of Systems Development.
 
 - 🔭 I’m currently working at [CPS - Soluções em TI](http://www.cpsti.com.br).
 
-- 💬 I’m learning **HTML, CSS, JavaScript, ReactJS, Typescript**.
+- 💬 I’m learning **HTML, CSS, JavaScript, ReactJS, Typescript, Java**.
 
 <br><br>
 ## ⚙️ &nbsp;GitHub Analytics
