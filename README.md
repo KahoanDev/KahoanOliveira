@@ -15,15 +15,15 @@
 </p>
 
 <br><br>
-<!--
+
 ## Contact
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/kahoan-oliveira/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/:badgeContent?style=flat-square&logo=Linkedin&logoColor=white&color=%23FF8000&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkahoan-oliveira%2F" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/_kgoliveira/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/:badgeContent?style=flat-square&logo=instagram&logoColor=white&color=%23FF8000&link=https%3A%2F%2Fwww.instagram.com%2F_kgoliveira%20" alt="instagram"/>
 </a>
 </p>
--->
+
