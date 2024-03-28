@@ -2,9 +2,9 @@
 
 - 🔥 I'm Junior Backend Software Engineer.
 
-- 🧑‍🎓 Student of Systems Development.
-
 - 🔭 I’m currently working at [CPS - Soluções em TI](http://www.cpsti.com.br).
+
+- 🧑‍🎓 Graduated in Systems Development at @ [UNISAL](https://unisal.br).
 
 - 💬 I'm currently learning **Java, C#**.
 
