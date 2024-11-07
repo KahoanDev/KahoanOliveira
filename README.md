@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Kahoan Oliveira</h1>
 
-- 🔥 I'm Junior Backend Software Engineer.
+- 🔥 I'm Backend Software Engineer.
 
 - 🧑‍🎓 Graduated in Systems Development at [UNISAL](https://unisal.br).
 
