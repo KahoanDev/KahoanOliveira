@@ -13,8 +13,8 @@
 ## ⚙️ GitHub Analytics
 
 <p align="left">
-  <img width="430em" src="https://github-readme-stats.vercel.app/api?username=KahoanOliveira&show_icons=true&layout=compact&theme=radical" alt="Kahoan Oliveira's most languages"/>
-  <img width="385em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KahoanOliveira&layout=compact&theme=radical" alt="Kahoan Oliveira's github stats"/>
+  <img width="430em" src="https://github-readme-stats.vercel.app/api?username=KahoanDev&show_icons=true&layout=compact&theme=radical" alt="Kahoan Oliveira's most languages"/>
+  <img width="385em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KahoanDev&layout=compact&theme=radical" alt="Kahoan Oliveira's github stats"/>
 </p>
 
 <br>
